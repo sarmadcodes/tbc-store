@@ -36,7 +36,7 @@ const Navbar = () => {
               </div>
             </div>
             <div className="hidden lg:block">
-              <span>Crafting Excellence in Textiles Since 1985</span>
+              <span>Crafting Excellence in Textiles Since 2022</span>
             </div>
           </div>
         </div>
