@@ -24,7 +24,7 @@ const mockProducts = [
     weight: '320 GSM',
     material: 'Cotton',
     color: 'Indigo',
-    image: 'https://images.pexels.com/photos/1598505/pexels-photo-1598505.jpeg',
+    image: 'https://images.pexels.com/photos/6069129/pexels-photo-6069129.jpeg',
     price: '$15.00/meter',
     description: 'Premium denim cloth material with excellent durability',
     exportAvailable: true
