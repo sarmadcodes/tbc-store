@@ -12,7 +12,7 @@ const Footer = () => {
             <h3 className="text-2xl font-bold text-white mb-4">TheBrokenColumn</h3>
             <p className="text-gray-300 mb-4 max-w-md">
               Leading Pakistani textile manufacturer specializing in premium cloth materials for global markets. 
-              Quality, reliability, and innovation since 1985.
+              Quality, reliability, and innovation since 2022.
             </p>
             <div className="flex space-x-4">
               <Facebook className="h-5 w-5 text-gray-400 hover:text-white cursor-pointer transition-colors" />
