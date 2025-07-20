@@ -65,7 +65,7 @@ const Home = () => {
             Masterfully Crafted Cloth Materials
           </h1>
           <p className="text-xl md:text-2xl mb-8 text-gray-100">
-            Weaving tradition with innovation since 1985. Premium cloth materials for discerning global clients.
+            Weaving tradition with innovation since 2022. Premium cloth materials for discerning global clients.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Link
